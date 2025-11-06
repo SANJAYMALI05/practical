@@ -82,3 +82,17 @@ Sudo su
 Sudo apt install openssh-server -y
 Sudo systemctl start ssh
 Sudo systemctl status ssh
+
+
+Cloud computing filzilla commands 
+
+Sudo apt update / apt-get update 
+
+Sudo apt install openssh-server  -y
+
+Sudo systemctl status ssh :-  to check if it’s active or not . 
+
+Sudo systemctl start ssh :- to start it if it’s not active. 
+
+
+In filzilla put username that is bcalab, password that is 1234 ,  ip adress :-  hostname-I :-  put this ip in that , and in port number put 22
